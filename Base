@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beretta Brasil</title> 
+  
+   <style>
+  
+  p {font-size: 50px}
+  h1 {font-size: 70px}
+  h2 {font-size: 60px}
+  
+   div.a {
+  	text-align: center;
+       }
+  </style>  
+  
+</head>
+
+<body style="background-color:gray;">
+  
+  <div class="a"> 
+  
+    <img src="Beretta_logo.png" height="30%" width="50%">
+    
+<h1>Beretta Brasil</h1>
+
+<p> Nós da Fabbrica d Armi Pietro Beretta<br>conhecida internacionalmente como Beretta<br>estamos abrindo uma a filial no Brasil<br>que ficará localizada em São Paulo(SP).</p>
+
+<h2>Sobre nós</h2>
+
+<p> Nós da Fabbrica d Armi Pietro Beretta temos orgulho<br>de ser uma das mais antigas empresas no nosso ramo<br> fomos fundados em 1526 por Pietro Beretta<br>desde então estamos no mercado fazendo o melhores produtos possíveis.</p> 
+
+
+
+<iframe width="704" height="396" src="https://www.youtube.com/embed/J_GVhxbklqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+ </div>
+
+<center>
+<p>
+<a href="https://www.berettadobrasil.com.br/"><button style="color:red">Saiba Mais</button></a>
+</p>
+<a href="https://www.instagram.com/berettabra/">Intagram</a>
+<a href="https://pt-br.facebook.com/pg/berettabrasil.com.br/posts/">Facebook</a>
+</center>
+
+</body> 
+
+
+</html>
